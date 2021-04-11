@@ -1,6 +1,6 @@
 # my_notes
 
-Study on structure of flutter project
+Study on architecture using Provider and Stacked 
 
 ## Important Informations
 
